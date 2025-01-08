@@ -5,7 +5,6 @@ This is a simple university management system project that allows students to re
  Features
 Student Admission**: Register new students into the system.
 Course Registration**: Students can register for available courses after admission.
-Grade Management**: Admin can manage grades and view student performance.
 User Authentication**: Ensures that only registered users can access certain features.
 
  Installation
